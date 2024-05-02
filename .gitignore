@@ -1,0 +1,8 @@
+derecho_fisca_y_aduanero.txt
+/env
+.env
+/__pycache__
+media/*.jpg
+media/*.png
+media/*.gif
+media/*.jpeg
